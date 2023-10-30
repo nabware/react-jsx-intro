@@ -1,0 +1,17 @@
+.tweet {
+  background-color: lightblue;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+.tweet-message {
+  font-size: 24px;
+}
+
+.tweet-name {
+  color: white;
+}
+
+.tweet-date {
+  color: grey;
+}
